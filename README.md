@@ -38,7 +38,7 @@ Cube Apocalypse is a Forge Modpack Which Means it Requires The Forge Mod Loader.
 
 You Can Help Us Develop Modpack and Make it Better! You Can Support Us. or if there is a Bug or issue, Dont Post in Review Section, Use Github issues! ( Same With Recommendations )
 
-if Description Contains Grammatic Correct Us in Github issues!
+if Description Contains Grammatic Errors, Correct Us in Github issues!
 
 if Your Recommendations is Accepted Then Your Name Will Be in Credits
 
