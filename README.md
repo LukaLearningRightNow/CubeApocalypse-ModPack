@@ -18,8 +18,6 @@ in Cube Apocalypse There Was intended to be Standalone Application To Add addons
 <br>
 🖥️ Custom application!
 <br>
-📦 addons Support!
-<br>
 🔒 Create obstacles To Defend Your Base From Humans and Zombies!
 <br>
 🐻 Realistic Animals!
