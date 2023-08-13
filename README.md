@@ -29,7 +29,7 @@ More!
 
 <h1>📥 Installation Guide</h1>
 
-Cube Apocalypse is a Forge Modpack Which Means it Requires The Forge Mod Loader. install Modpack With Third Party Launchers Automatically or Download Manually From Github ( zip file )
+Cube Apocalypse is a Forge Modpack Which Means it Requires The Forge Mod Loader. install Modpack With Third Party Launchers Automatically ( From Modrinth ) or Download Manually From Github ( zip )
 
 
 <h1>You Can Help Us!</h1>
